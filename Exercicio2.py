@@ -8,7 +8,7 @@ def ex2(vet, tam):
             vet[i] = 2
     return vet
  
-tam = 3
+tam = 30
  
 vetor = [0]*tam
 for i in range(tam):
